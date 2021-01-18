@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c5a1651-df4c-4a42-8b6f-d1aecaf9f9c5" name="Default Changelist" comment="" />
+    <list default="true" id="2c5a1651-df4c-4a42-8b6f-d1aecaf9f9c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/Chandra Ramdhan Purnama - CV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pdf/chandra-CV.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/chandra-CV.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +25,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,6 +41,7 @@
       <workItem from="1604541324069" duration="599000" />
       <workItem from="1604584670887" duration="1446000" />
       <workItem from="1605061349824" duration="21000" />
+      <workItem from="1610934951653" duration="226000" />
     </task>
     <servers />
   </component>
